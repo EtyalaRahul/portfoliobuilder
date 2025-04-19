@@ -4,6 +4,7 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <h1 className='navbar-heading'>Welcome to portfolio maker </h1>
+    
   );
 };
 
